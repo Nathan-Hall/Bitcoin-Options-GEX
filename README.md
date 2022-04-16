@@ -19,3 +19,4 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 - main.py takes all options contracts from Deribit (largest crypto options exchange) and calculates total naive gamma exposure and the gamma distribution. 
 - Further work would work on calculating Vanna exposure and make more realistic assumptions then naive gamma distribution
 - Don't judge my code too hard, this was really one of my first real coding projects :)
+- I have uploaded some example pictures from the output, I think it is pretty cool still
